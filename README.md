@@ -5,6 +5,7 @@
 #include <stdio.h>
 
 void bubbleSort (int array[], int n){
+
     int i, l, num;
 
     for(i = 0; i < n - 1; i++){
